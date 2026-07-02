@@ -1,0 +1,6 @@
+Geography,Amount flagged ($),Households,Per household ($),Household source (VERIFY day-of-filing)
+United States,1598054408,131434000,12.1586074227369,"US: FRED TTLHH, https://fred.stlouisfed.org/series/TTLHH"
+Pennsylvania,551400000,5262000,104.78905359179,Census ACS 5-yr estimate (approx)
+New York,439000000,7617000,57.6342392017855,Census ACS 5-yr estimate (approx)
+New Jersey,606700000,3517000,172.504975831675,Census ACS 5-yr estimate (approx)
+Michigan,954408,4009000,0.238066350710901,Census ACS 5-yr estimate (approx)
